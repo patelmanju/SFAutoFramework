@@ -1,4 +1,4 @@
-package SFProject.utility.base;
+package com.SFProject.test.base;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;

@@ -1,4 +1,4 @@
-package SFProject.utility.test;
+package com.SFProject.test.tests;
 
 import java.io.IOException;
 import java.util.List;
@@ -9,8 +9,9 @@ import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.Select;
 import org.testng.Assert;
 import org.testng.annotations.Test;
-import SFProject.utility.CommonUtility;
-import SFProject.utility.base.SalesforceBaseScript;
+
+import com.SFProject.test.base.SalesforceBaseScript;
+import com.SFProject.test.utility.CommonUtility;
 
 public class CaseScript extends SalesforceBaseScript {
 

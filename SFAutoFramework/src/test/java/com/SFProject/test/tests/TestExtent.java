@@ -1,4 +1,4 @@
-package SFProject.utility.test;
+package com.SFProject.test.tests;
 
 import com.aventstack.extentreports.ExtentReports;
 import com.aventstack.extentreports.ExtentTest;

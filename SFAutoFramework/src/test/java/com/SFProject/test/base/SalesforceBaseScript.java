@@ -1,4 +1,4 @@
-package SFProject.utility.base;
+package com.SFProject.test.base;
 
 import java.io.File;
 import java.io.IOException;
@@ -27,9 +27,11 @@ import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Parameters;
-import SFProject.utility.CommonUtility;
-import SFProject.utility.GenerateReports;
-import SFProject.utility.constants;
+
+import com.SFProject.test.utility.CommonUtility;
+import com.SFProject.test.utility.GenerateReports;
+import com.SFProject.test.utility.constants;
+
 import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class SalesforceBaseScript {

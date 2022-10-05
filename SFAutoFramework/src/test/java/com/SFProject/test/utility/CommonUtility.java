@@ -1,4 +1,4 @@
-package SFProject.utility;
+package com.SFProject.test.utility;
 
 import java.io.FileInputStream;
 import java.io.IOException;

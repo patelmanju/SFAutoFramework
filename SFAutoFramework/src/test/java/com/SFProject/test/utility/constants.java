@@ -1,4 +1,4 @@
-package SFProject.utility;
+package com.SFProject.test.utility;
 
 public class constants {
 	public static final String USER_DIR=System.getProperty("user.dir");
