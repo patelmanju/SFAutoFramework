@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<test name="caseScriptTest">
+
+		<classes>
+			<class name="SFProject.utility.test.CaseScript">
+				<parameter name="browserName" value="firefox"></parameter>
+				<methods>
+					<include name="T1sf"></include>
+					<include name="T2sf"></include>
+					<include name="T3sf"></include>
+					<include name="T4asf"></include>
+					<include name="T4bsf"></include>
+					<include name="T5sf"></include>
+					<include name="T6sf"></include>
+					<include name="T7sf"></include>
+					<include name="T8sf"></include>
+					<include name="T9asf"></include>
+					<include name="T10sf"></include>
+					<include name="T11f"></include>
+					<include name="T12sf"></include>
+					<include name="T15sf"></include>
+					<include name="T24sf"></include>
+					
+
+				</methods>
+			</class>
+		</classes>
+	</test> <!-- caseScriptTest -->
+</suite> <!-- Suite -->
